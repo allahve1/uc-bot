@@ -64,11 +64,11 @@ logger.addHandler(_konsol_handler)
 # AYARLAR — BURANI ÖZ MƏLUMATLARINIZLA DOLDURUN
 # ----------------------------------------------------------------
 TELEGRAM_TOKEN = "BOTFATHER_TOKEN"
-EPINBULK_API_KEY = "EPINBULK_KEY"
+EPINBULK_API_KEY = "adc1fd83-a230-4eeb-8b1a-8aab0cfd59d2"
 
 # Botu ilk dəfə işə salan, həmişə "admin" olan Telegram istifadəçi ID-si.
 # Bundan başqa admin/işçiləri botun içindən (admin panel) əlavə edə bilərsiniz.
-ADMIN_ID = 123456789
+ADMIN_ID = 7262941693
 
 EPINBULK_BASE_URL = "https://epinbulk.shop/api/v1"
 
