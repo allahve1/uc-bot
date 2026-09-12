@@ -1,0 +1,14 @@
+# Verilənlər bazası və log-lar (hər serverdə fərqli olur, repo-ya lazım deyil)
+bossepin.db
+log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# OS fayllari
+.DS_Store
